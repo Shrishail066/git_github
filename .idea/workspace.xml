@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112a000e-eca9-40d9-95c5-1078f7ffb2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Shrishail_C_H.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10-04-2025_17_38_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10-04-2025_17_38__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sort_data_by_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/sort_data_by_date.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shrishailh\Desktop\Git\git_github" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="sort_data_by_date" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -62,22 +69,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="629" height="197" key="GridCell.Tab.0.bottom" timestamp="1744789085972">
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom" timestamp="1746010141069">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="629" height="197" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1744789085972" />
-    <state width="629" height="197" key="GridCell.Tab.0.center" timestamp="1744789085972">
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1746010141069" />
+    <state width="1259" height="119" key="GridCell.Tab.0.center" timestamp="1746010141069">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="629" height="197" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1744789085972" />
-    <state width="629" height="197" key="GridCell.Tab.0.left" timestamp="1744789085972">
+    <state width="1259" height="119" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1746010141069" />
+    <state width="1259" height="119" key="GridCell.Tab.0.left" timestamp="1746010141069">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="629" height="197" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1744789085972" />
-    <state width="629" height="197" key="GridCell.Tab.0.right" timestamp="1744789085972">
+    <state width="1259" height="119" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1746010141069" />
+    <state width="1259" height="119" key="GridCell.Tab.0.right" timestamp="1746010141069">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="629" height="197" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1744789085972" />
+    <state width="1259" height="119" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1746010141069" />
     <state x="121" y="50" key="MergeDialog" timestamp="1744286906226">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
