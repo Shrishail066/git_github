@@ -1,37 +1,15 @@
-// Open GroupDocs in a new tab
-window.open('https://products.groupdocs.app/editor/total', '_blank');
- 
-// Wait for the new tab to load
-setTimeout(() => {
-    // Switch to the new tab
-    const newTab = window.open('', '_blank');
-    newTab.focus();
- 
-    // Log in to GroupDocs
-    newTab.document.querySelector('input[name="email"]').value = 'your-email@example.com';
-    newTab.document.querySelector('input[name="password"]').value = 'your-password';
-    newTab.document.querySelector('button[type="submit"]').click();
- 
-    // Wait for login to complete
-    setTimeout(() => {
-        // Navigate to the Editor page
-        newTab.location.href = 'https://products.groupdocs.app/editor/total';
- 
-        // Wait for the Editor page to load
-        setTimeout(() => {
-            // Upload the file dynamically
-            const fileInput = newTab.document.querySelector('input[type="file"]');
-            const dataTransfer = new DataTransfer();
-            const file = new File([''], ''); // Empty file name, will be set dynamically
-            dataTransfer.items.add(file);
-            fileInput.files = dataTransfer.files;
-            fileInput.dispatchEvent(new Event('change', { bubbles: true }));
- 
-            // Wait for the file to upload and validate column names
-            setTimeout(() => {
-                // Add your validation logic here
- 
-            }, 15000); // Adjust the timeout as needed for file upload and validation
-        }, 10000); // Adjust the timeout as needed for Editor page to load
-    }, 5000); // Adjust the timeout as needed for login to complete
-}, 3000); // Adjust the timeout as needed for new tab to load
+const emailField = document.getElementById('username');
+const passwordField = document.getElementById('password');
+const loginButton = document.getElementById('kc-login');
+
+if (emailField && passwordField && loginButton) {
+    emailField.value = 'Qyrustest123internal@gmail.com';
+    emailField.dispatchEvent(new Event('input', { bubbles: true }));
+
+    passwordField.value = 'Uploadtest29$';
+    passwordField.dispatchEvent(new Event('input', { bubbles: true }));
+
+    loginButton.click();
+} else {
+    console.log('Login form elements not found.');
+}
