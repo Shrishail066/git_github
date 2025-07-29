@@ -1,3 +1,4 @@
-l=[1,2,3,4,5]
-l1=list(map(lambda x:x*2,l))
-print(l1)
+s="Quin434nox"
+for each_value in s:
+    if each_value.isdigit():
+        print(each_value)
